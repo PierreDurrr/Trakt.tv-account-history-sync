@@ -1,5 +1,6 @@
 # Trakt.tv-account-history-sync
 Sync trakt.tv viewing history acrosse 2 account (doesn't preserve viewing date for now)
+---
 
 Here's a **basic Python script** to sync watched history from one Trakt account to another using the **Trakt API**. This script:  
 
